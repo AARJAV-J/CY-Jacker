@@ -17,3 +17,5 @@ My Desktop
 My Terminal (Konsole)
 
 ![Screenshot_20221210_165837](https://user-images.githubusercontent.com/104687410/206852744-20d11f7b-39a4-499b-983b-4aa371cc043d.png)
+
+Thanks...
